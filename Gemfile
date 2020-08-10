@@ -5,7 +5,3 @@ gem "hashie"
 gem 'octokit', '~> 2.0'
  
 gem "pry", :group => "development"
-
-group :development do
-  gem "pry"
-end
